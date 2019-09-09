@@ -1,0 +1,6 @@
+
+
+Enum Item{
+    Coke(25), Pepsi(35), Soda(45);
+}
+
